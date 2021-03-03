@@ -5,6 +5,7 @@
 
 .products__Row {
     display: flex;
+    font-size: 20px;
 }
 
 .products__ColImg, .products__Col {
